@@ -1,0 +1,914 @@
+  0B    /.DocumentRevisions-V100/PerUID
+  0B    /.DocumentRevisions-V100/PerUID/501
+  0B    /.DocumentRevisions-V100/PerUID/502
+  0B    /.DocumentRevisions-V100/purgatory
+  0B    /.DocumentRevisions-V100/staging
+  0B    /.Trashes
+  0B    /.vol
+  0B    /Library/Application Support/Google
+  0B    /Library/Application Support/Unity
+  0B    /Library/Audio/MIDI Configurations
+  0B    /Library/Audio/MIDI Drivers
+  0B    /Library/Audio/MIDI Patch Names
+  0B    /Library/Audio/Sounds
+  0B    /Library/Bundles
+  0B    /Library/Bundles/MacHardwareTypes.bundle
+  0B    /Library/Caches/com.apple.coredata.externalrecordsworkfiles
+  0B    /Library/ColorPickers
+  0B    /Library/Components
+  0B    /Library/Compositions
+  0B    /Library/Desktop Pictures/.localizations
+  0B    /Library/DirectoryServices
+  0B    /Library/DirectoryServices/PlugIns
+  0B    /Library/Documentation/Applications
+  0B    /Library/Documentation/iPod
+  0B    /Library/Filesystems/NetFSPlugins
+  0B    /Library/Graphics
+  0B    /Library/Graphics/Image Units
+  0B    /Library/Graphics/Quartz Composer Plug-Ins
+  0B    /Library/Image Capture/Automatic Tasks
+  0B    /Library/Image Capture/TWAIN Data Sources
+  0B    /Library/Image Capture/Tools
+  0B    /Library/Input Methods
+  0B    /Library/Internet Plug-Ins/Unused
+  0B    /Library/Java/Extensions
+  0B    /Library/Keyboard Layouts
+  0B    /Library/Logs/Kaspersky Lab
+  0B    /Library/Modem Scripts/Bluetooth LAN Access.ccl
+  0B    /Library/Modem Scripts/Farallon Netopia 56K MLPPP.ccl
+  0B    /Library/Modem Scripts/Farallon Netopia 56K.ccl
+  0B    /Library/Modem Scripts/Farallon Netopia 64K MLPPP.ccl
+  0B    /Library/Modem Scripts/Farallon Netopia 64K.ccl
+  0B    /Library/Modem Scripts/Hayes Accura 56K.ccl
+  0B    /Library/Modem Scripts/Motorola BitSURFR 56K MLPPP.ccl
+  0B    /Library/Modem Scripts/Motorola BitSURFR 56K.ccl
+  0B    /Library/Modem Scripts/Motorola BitSURFR 64K MLPPP.ccl
+  0B    /Library/Modem Scripts/Motorola BitSURFR 64K.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128NT ML-PPP w:DBA.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128NT ML-PPP.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128NT PPP.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128ST ML-PPP w:DBA.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128ST ML-PPP.ccl
+  0B    /Library/Modem Scripts/MultiTech MTA128ST PPP.ccl
+  0B    /Library/Modem Scripts/Null Modem 115200.ccl
+  0B    /Library/Modem Scripts/Null Modem 19200.ccl
+  0B    /Library/Modem Scripts/Null Modem 57600.ccl
+  0B    /Library/Modem Scripts/Null Modem 9600.ccl
+  0B    /Library/Modem Scripts/Sprint PCS Vision.ccl
+  0B    /Library/Modem Scripts/Vodafone VC701SI.ccl
+  0B    /Library/Modem Scripts/Zoom V-Series.ccl
+  0B    /Library/OpenDirectory
+  0B    /Library/OpenDirectory/Mappings
+  0B    /Library/OpenDirectory/Modules
+  0B    /Library/OpenDirectory/Templates
+  0B    /Library/PDF Services/Save PDF to Web Receipts Folder.pdfworkflow
+  0B    /Library/Perl/5.16
+  0B    /Library/Preferences/.com.flexnetlicensing
+  0B    /Library/Preferences/DirectoryService
+  0B    /Library/Receipts/db
+  0B    /Library/Ruby
+  0B    /Library/Ruby/Gems
+  0B    /Library/Ruby/Site
+  0B    /Library/Sandbox
+  0B    /Library/Sandbox/Profiles
+  0B    /Library/Scripts/UI Element Scripts
+  0B    /Library/Scripts/VoiceOver
+  0B    /Library/Security/SecurityAgentPlugins
+  0B    /Library/Speech
+  0B    /Library/Speech/Synthesizers
+  0B    /Library/StartupItems
+  0B    /Library/SystemMigration/Queue
+  0B    /Library/SystemProfiler
+  0B    /Library/Video/Professional Video Workflow Plug-Ins
+  0B    /Library/WebServer/CGI-Executables
+  0B    /Network
+  0B    /System/Library/CacheDelete
+  0B    /System/Library/Colors
+  0B    /System/Library/DTDs
+  0B    /System/Library/IdentityServices
+  0B    /System/Library/Metadata
+  0B    /System/Library/SDKSettingsPlist
+  0B    /System/Library/ScriptingDefinitions
+  0B    /System/Library/StartupItems
+  0B    /System/Library/User Template
+  0B    /Users/Guest/Desktop
+  0B    /Users/Guest/Documents
+  0B    /Users/Guest/Movies
+  0B    /Users/Guest/Music
+  0B    /Users/Guest/Pictures
+  0B    /Users/Guest/Public
+  0B    /Users/Shared/SC Info
+  0B    /Users/gerard/.matplotlib
+  0B    /Users/gerard/Public
+  0B    /Users/gerardwerk/.gsutil
+  0B    /Users/gerardwerk/.local
+  0B    /Users/gerardwerk/.logs
+  0B    /Users/gerardwerk/Movies
+  0B    /Users/gerardwerk/Public
+  0B    /cores
+  0B    /opt/android-ndk-r12b
+  0B    /private/etc/asl
+  0B    /private/etc/authbind
+  0B    /private/etc/defaults
+  0B    /private/etc/emond.d
+  0B    /private/etc/mach_init.d
+  0B    /private/etc/mach_init_per_login_session.d
+  0B    /private/etc/newsyslog.d
+  0B    /private/etc/pam.d
+  0B    /private/etc/periodic
+  0B    /private/etc/ppp
+  0B    /private/etc/racoon
+  0B    /private/tftpboot
+  0B    /private/tmp/KSInstallAction.8uT1IElQin
+  0B    /private/tmp/KSOutOfProcessFetcher.9zs73XcgZg
+  0B    /private/tmp/TorrentsTime files
+  0B    /private/tmp/com.apple.launchd.2zUPDQr44T
+  0B    /private/tmp/com.apple.launchd.3e0AVCC2Tm
+  0B    /private/tmp/com.apple.launchd.4GeTPOz3xh
+  0B    /private/tmp/com.apple.launchd.8zKuiKrhsJ
+  0B    /private/tmp/com.apple.launchd.E1QLCk5geC
+  0B    /private/tmp/com.apple.launchd.EHLRIyr0YA
+  0B    /private/tmp/com.apple.launchd.I5BKyzW4U0
+  0B    /private/tmp/com.apple.launchd.M2CDBbNEU8
+  0B    /private/tmp/com.apple.launchd.NoxoMy4Xlw
+  0B    /private/tmp/com.apple.launchd.S80YwFW1DB
+  0B    /private/tmp/com.apple.launchd.dFbNE3ToYY
+  0B    /private/tmp/com.apple.launchd.dHhyLsZGwR
+  0B    /private/tmp/com.apple.launchd.jLKeesBK29
+  0B    /private/tmp/com.apple.launchd.kbaqT3WV4o
+  0B    /private/tmp/com.apple.launchd.lKWLx0pkqF
+  0B    /private/tmp/com.apple.launchd.niOXN6HKDZ
+  0B    /private/tmp/com.apple.launchd.ouCgEbMk8n
+  0B    /private/tmp/com.apple.launchd.pCQF0cFqkE
+  0B    /private/tmp/com.apple.launchd.pdrSFelUSS
+  0B    /private/tmp/com.apple.launchd.qqo3Ti43Lh
+  0B    /private/tmp/com.apple.launchd.uBEvnFapJb
+  0B    /private/tmp/cvcd
+  0B    /private/tmp/kav_sockets
+  0B    /private/var/agentx
+  0B    /private/var/at
+  0B    /private/var/backups
+  0B    /private/var/empty
+  0B    /private/var/folders~orig
+  0B    /private/var/jabberd
+  0B    /private/var/mail
+  0B    /private/var/netboot
+  0B    /private/var/rpc
+  0B    /private/var/rwho
+  0B    /private/var/yp
+  0B    /usr/adic
+  0B    /usr/adic/SRVCLOG
+  0B    /usr/include/_types
+  0B    /usr/include/architecture
+  0B    /usr/include/atm
+  0B    /usr/include/bank
+  0B    /usr/include/corpses
+  0B    /usr/include/default_pager
+  0B    /usr/include/editline
+  0B    /usr/include/i386
+  0B    /usr/include/kern
+  0B    /usr/include/libexslt
+  0B    /usr/include/mach_debug
+  0B    /usr/include/machine
+  0B    /usr/include/miscfs
+  0B    /usr/include/netkey
+  0B    /usr/include/protocols
+  0B    /usr/include/secure
+  0B    /usr/include/uuid
+  0B    /usr/include/vfs
+  0B    /usr/include/xlocale
+  0B    /usr/lib/pkgconfig
+  0B    /usr/libexec/dtrace
+  0B    /usr/share/CSI
+  0B    /usr/share/CoreDuetDaemonConfig.bundle
+  0B    /usr/share/current-os.sdk
+  0B    /usr/share/examples
+  0B    /usr/share/ftpd
+  0B    /usr/share/kdrl.bundle
+  0B    /usr/share/pmenergy
+  0B    /usr/share/skel
+  0B    /usr/share/tabset
+  0B    /usr/share/terminfo
+  0B    /usr/share/thermald.bundle
+  0B    /usr/share/uucp
+1.0K    /home
+1.0K    /net
+4.0K    /.Spotlight-V100/Store-V1
+4.0K    /Library/Application Support/App Store
+4.0K    /Library/Caches/Canon
+4.0K    /Library/Image Capture/Support
+4.0K    /Library/Modem Scripts/Farallon LAN:Modem PC Card.ccl
+4.0K    /System/Library/LaunchAgents
+4.0K    /System/Library/OpenSSL
+4.0K    /Users/Shared/Library
+4.0K    /Users/gerard/.belastingdienst.nl
+4.0K    /Users/gerard/.cups
+4.0K    /Users/gerard/Scripts
+4.0K    /Users/gerardwerk/.cups
+4.0K    /Users/gerardwerk/.jupyter
+4.0K    /Volumes
+4.0K    /private/etc/mach_init_per_user.d
+4.0K    /private/etc/pf.anchors
+4.0K    /private/tmp/WhatsApp Crashes
+4.0K    /private/var/lib
+4.0K    /private/var/msgs
+4.0K    /usr/include/ffi
+4.5K    /dev
+8.0K    /Library/Application Support/Oracle
+8.0K    /Library/Modem Scripts/GV flex:V.90.ccl
+8.0K    /Library/Modem Scripts/GV x2:V.90.ccl
+8.0K    /Library/Modem Scripts/Generic Dialup.ccl
+8.0K    /Library/Modem Scripts/Generic GPRS.ccl
+8.0K    /Library/Modem Scripts/MultiTech MT5600.ccl
+8.0K    /Library/Modem Scripts/MultiTech MT5634.ccl
+8.0K    /Library/Modem Scripts/Supra V.90.ccl
+8.0K    /Library/Modem Scripts/WWAN.ccl
+8.0K    /Library/Modem Scripts/Zoom Bluetooth Modem (v.34).ccl
+8.0K    /Library/Modem Scripts/Zoom Bluetooth Modem (v.90).ccl
+8.0K    /Library/Modem Scripts/Zoom Universal (115k).ccl
+8.0K    /System/Library/Password Server Filters
+8.0K    /Users/Guest/Library
+8.0K    /Users/Shared/Adobe
+8.0K    /Users/gerard/.adobe
+8.0K    /Users/gerard/Downloads
+8.0K    /Users/gerardwerk/.aws
+8.0K    /Users/gerardwerk/.oracle_jre_usage
+8.0K    /private/etc/manpaths.d
+8.0K    /private/etc/paths.d
+8.0K    /usr/include/device
+8.0K    /usr/include/malloc
+8.0K    /usr/include/os
+8.0K    /usr/include/pexpert
+8.0K    /usr/include/pthread
+8.0K    /usr/include/readline
+8.0K    /usr/include/servers
+8.0K    /usr/include/xar
+8.0K    /usr/libexec/fax
+8.0K    /usr/share/hiutil
+8.0K    /usr/share/php
+8.0K    /usr/share/sandbox
+8.0K    /usr/share/texinfo
+ 12K    /Library/Application Support/Macromedia
+ 12K    /Library/Application Support/regid.1986-12.com.adobe
+ 12K    /Library/Preferences/OpenDirectory
+ 12K    /Library/Security
+ 12K    /Library/Security/Trust Settings
+ 12K    /Library/TeX/.scripts
+ 12K    /Users/gerard/Metadata
+ 12K    /Users/gerardwerk/.graphlab
+ 12K    /opt/X11/etc
+ 12K    /private/etc/security
+ 12K    /usr/include/CommonCrypto
+ 12K    /usr/include/arpa
+ 12K    /usr/include/hfs
+ 12K    /usr/local/.github
+ 12K    /usr/sbin/authserver
+ 12K    /usr/share/zoneinfo
+ 16K    /Library/Logs/Adobe
+ 16K    /Library/Scripts/Folder Actions
+ 16K    /Library/Video
+ 16K    /Library/Video/Plug-Ins
+ 16K    /System/Library/LocationBundles
+ 16K    /Users/Shared/adi
+ 16K    /Users/gerard/.AndroidStudio1.2
+ 16K    /Users/gerard/.PyCharm40
+ 16K    /Users/gerard/.ssh
+ 16K    /Users/gerardwerk/.PyCharm40
+ 16K    /Users/gerardwerk/.gitkraken
+ 16K    /private/etc/snmp
+ 16K    /usr/include/gssapi
+ 16K    /usr/include/libkern
+ 16K    /usr/lib/java
+ 16K    /usr/lib/sa
+ 16K    /usr/local/sbin
+ 20K    /Library/Frameworks/MacFUSE.framework
+ 20K    /Library/Internet Plug-Ins/Default Browser.plugin
+ 20K    /Library/QuickTime/AppleMPEG2Codec.component
+ 20K    /System/Library/LaunchDaemons
+ 20K    /System/Library/Recents
+ 20K    /Users/gerardwerk/.ssh
+ 20K    /usr/include/libxslt
+ 20K    /usr/include/netinet6
+ 20K    /usr/lib/dtrace
+ 20K    /usr/share/java
+ 24K    /System/Library/Sandbox
+ 24K    /opt/cisco/vpn
+ 24K    /usr/include/rpc
+ 24K    /usr/local/Frameworks
+ 28K    /usr/lib/xpc
+ 32K    /Library/LaunchAgents
+ 32K    /Library/Preferences/Audio
+ 32K    /Library/iTunes
+ 32K    /Library/iTunes/iTunes Plug-ins
+ 32K    /System/Library/CryptoTokenKit
+ 32K    /System/Library/DuetKnowledgeBase
+ 32K    /System/Library/KerberosPlugins
+ 32K    /Users/Shared
+ 32K    /Users/gerard/.subversion
+ 32K    /Users/gerardwerk/.subversion
+ 32K    /usr/include/objc
+ 32K    /usr/include/pcap
+ 32K    /usr/include/rpcsvc
+ 32K    /usr/include/sasl
+ 32K    /usr/include/tidy
+ 36K    /Library/WebServer/Documents
+ 36K    /Users/gerard/.idea
+ 36K    /usr/include/krb5
+ 36K    /usr/share/misc
+ 40K    /Library/Scripts/Printing Scripts
+ 40K    /System/Library/Assistant
+ 40K    /Users/gerardwerk/.beaker
+ 40K    /usr/include/bsm
+ 40K    /usr/include/xpc
+ 40K    /usr/lib/groff
+ 40K    /usr/libexec/AppSandbox
+ 44K    /Library/QuickLook/iBooksAuthor.qlgenerator
+ 44K    /Library/Scripts/Font Book
+ 44K    /usr/include/dispatch
+ 44K    /usr/include/odmodule
+ 48K    /Users/gerardwerk/.virtualenvs
+ 48K    /private/etc/cups
+ 48K    /usr/libexec/feedback
+ 52K    /Library/Extensions/CIJUSBLoad.kext
+ 52K    /usr/include/curl
+ 56K    /Library/Spotlight/iBooksAuthor.mdimporter
+ 56K    /Users/gerard/.config
+ 56K    /usr/include/mach-o
+ 56K    /usr/include/security
+ 56K    /usr/libexec/DeveloperTools
+ 60K    /Library/QuickTime/AppleIntermediateCodec.component
+ 60K    /private/var/run
+ 60K    /usr/include/cups
+ 60K    /usr/include/net
+ 64K    /Library/Application Support/com.apple.TCC
+ 68K    /usr/include/libxml2
+ 72K    /Users/gerard/Music
+ 72K    /usr/libexec/ApplicationFirewall
+ 76K    /Library/ScriptingAdditions
+ 76K    /Library/ScriptingAdditions/Adobe Unit Types.osax
+ 76K    /usr/include/netinet
+ 80K    /Library/QuickTime
+ 80K    /System/Library/TextEncodings
+ 80K    /private/etc/ssh
+ 80K    /usr/include/nfs
+ 80K    /usr/libexec/emacs
+ 84K    /Library/Printers/Lisanet
+ 84K    /usr/include/simd
+ 88K    /Library/LaunchDaemons
+ 88K    /System/Library/DirectoryServices
+ 88K    /private/etc/postfix
+ 88K    /usr/share/calendar
+ 92K    /Library/Modem Scripts
+ 92K    /usr/include/net-snmp
+100K    /usr/share/apr-1
+104K    /Library/Frameworks/PluginManager.framework
+108K    /Library/Extensions/CalDigitHDProDrv.kext
+112K    /Applications/Cisco/Uninstall AnyConnect DART.app
+112K    /Library/Receipts
+116K    /Applications/Cisco/Uninstall AnyConnect.app
+116K    /Library/Extensions/ArcMSR.kext
+132K    /Library/DropboxHelperTools/Dropbox_u501
+132K    /Library/DropboxHelperTools/Dropbox_u502
+132K    /Users/gerardwerk/.rstudio-desktop
+140K    /private/etc/apache2
+144K    /private/etc/openldap
+148K    /Library/Scripts/Folder Action Scripts
+148K    /Users/gerardwerk/.config
+152K    /Library/Extensions/klif.kext
+156K    /Library/Application Support/ApplePushService
+156K    /System/Library/Filters
+160K    /Library/Application Support/Mozilla
+160K    /Library/Internet Plug-Ins/Quartz Composer.webplugin
+160K    /Library/Keychains
+176K    /usr/include/apr-1
+180K    /Library/Application Support/CrashReporter
+180K    /Library/Extensions/BJUSBLoad.kext
+180K    /Library/Extensions/HighPointIOP.kext
+180K    /Users/gerardwerk/.matplotlib
+180K    /Users/gerardwerk/.pylint.d
+184K    /usr/include/mach
+192K    /Library/Desktop Pictures/Solid Colors
+192K    /Library/Extensions/ACS6x.kext
+212K    /Library/Scripts/ColorSync
+216K    /System/Library/SyncServices
+216K    /usr/include/apache2
+220K    /Library/Preferences/FLEXnet Publisher
+220K    /Users/gerard/.local
+220K    /usr/lib/pam
+236K    /Library/Contextual Menu Items
+236K    /Library/Contextual Menu Items/KavFinderCMPlugIn.plugin
+244K    /Library/Filesystems
+244K    /Library/Filesystems/osxfusefs.fs
+248K    /Users/gerardwerk/.dropbox
+260K    /Library/Extensions/ATTOExpressSASRAID2.kext
+268K    /usr/libexec/SmartCardServices
+272K    /usr/share/screen
+276K    /System/Library/Printers
+280K    /Library/Python/2.6
+280K    /Library/Services
+280K    /Library/Services/KAVService.service
+284K    /Library/Preferences/SystemConfiguration
+284K    /private/var/spool
+288K    /Library/Perl
+288K    /Library/Perl/5.18
+292K    /Library/Printers/Icons
+296K    /Library/Extensions/PromiseSTEX.kext
+300K    /usr/share/file
+304K    /System/Library/WidgetResources
+316K    /usr/share/kpep
+324K    /Library/Application Support/FLEXnet Publisher
+328K    /Library/Internet Plug-Ins/AdobePDFViewer.plugin
+332K    /System/Library/ConfigurationProfiles
+344K    /System/Library/Keyboard Layouts
+344K    /usr/include/sys
+360K    /Users/gerard/Dropbox
+360K    /usr/local/opt
+364K    /Library/Internet Plug-Ins/Disabled Plug-Ins
+368K    /System/Library/Messages
+372K    /Library/Application Support/ProApps
+392K    /Applications/Utilities/Digital Color Meter.app
+404K    /System/Library/Keychains
+424K    /Library/TeX/Distributions
+424K    /System/Library/Spotlight
+428K    /Library/Scripts/Script Editor Scripts
+440K    /Library/Extensions/ATTOCelerityFC8.kext
+440K    /usr/local/m-cli
+448K    /Library/Audio/MIDI Devices
+452K    /Library/TeX
+468K    /Library/Documentation/Resources
+476K    /Users/gerard/.thumbnails
+488K    /System/Library/Accessibility
+512K    /Library/Extensions/HighPointRR.kext
+524K    /Applications/Dashboard.app
+524K    /Applications/Dashboard.app/Contents
+528K    /Applications/Cisco/Cisco AnyConnect DART.app
+528K    /Users/gerard/Data
+544K    /usr/share/snmp
+556K    /System/Library/Security
+556K    /usr/lib/rpcsvc
+564K    /Library/Application Support/VirtualBox
+580K    /Applications/Utilities/Bluetooth File Exchange.app
+580K    /Users/gerard/.bash_sessions
+584K    /usr/lib/zsh
+588K    /usr/libexec/MiniTerm.app
+592K    /usr/lib/sasl2
+604K    /System/Library/Video
+608K    /Library/Frameworks/iTunesLibrary.framework
+636K    /Applications/Utilities/Adobe Installers
+644K    /System/Library/UserEventPlugins
+648K    /Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin
+652K    /System/Library/Graphics
+660K    /Users/gerardwerk/.android
+684K    /System/Library/LoginPlugins
+704K    /Library/Extensions/SoftRAID.kext
+708K    /System/Library/OpenDirectory
+720K    /usr/share/zsh
+724K    /usr/include/php
+764K    /usr/share/cracklib
+800K    /Applications/Mission Control.app
+800K    /Applications/Mission Control.app/Contents
+808K    /Users/gerard/.matlab
+816K    /Applications/Utilities/Adobe Flash Player Install Manager.app
+828K    /Library/Application Support/Script Editor
+840K    /usr/include/c++
+852K    /Users/gerardwerk/Music
+852K    /usr/share/ucupdate
+888K    /Library/Scripts
+920K    /Library/Widgets/Calendar.wdgt
+940K    /Library/Widgets/Stocks.wdgt
+940K    /Users/gerardwerk/.matlab
+944K    /Library/Preferences
+944K    /private/etc
+956K    /Applications/Utilities/Grab.app
+976K    /private/tmp/KSDownloadAction.MJSRDSYjMQ
+1000K   /Library/Desktop Pictures/.thumbnails
+1.0M    /Library/Extensions/ATTOExpressSASHBA2.kext
+1.0M    /Library/Widgets/Contacts.wdgt
+1.0M    /sbin
+1.1M    /Applications/Utilities/Adobe AIR Application Installer.app
+1.1M    /Library/CoreMediaIO
+1.1M    /Library/CoreMediaIO/Plug-Ins
+1.1M    /Library/PreferencePanes/OSXFUSE.prefPane
+1.1M    /System/Library/Accounts
+1.1M    /System/Library/Screen Savers
+1.1M    /Users/gerard/.cisco
+1.1M    /Users/gerardwerk/.tldr
+1.1M    /usr/share/httpd
+1.2M    /Applications/Launchpad.app
+1.2M    /Applications/Launchpad.app/Contents
+1.2M    /Applications/Time Machine.app
+1.2M    /Applications/Time Machine.app/Contents
+1.2M    /System/Library/Displays
+1.2M    /usr/libexec/cups
+1.2M    /usr/local/etc
+1.3M    /Library/Automator
+1.3M    /Library/Automator/Save as Adobe PDF.action
+1.3M    /Library/PreferencePanes/TeXDistPrefPane.prefPane
+1.3M    /Library/Widgets/Tile Game.wdgt
+1.3M    /System/Library/QuickLook
+1.3M    /Users/gerard/Desktop
+1.3M    /Users/gerardwerk/node_modules
+1.3M    /usr/share/groff
+1.4M    /Library/PreferencePanes/Flash Player.prefPane
+1.4M    /Library/Widgets/Calculator.wdgt
+1.4M    /usr/share/dict
+1.5M    /System/Library/Address Book Plug-Ins
+1.5M    /System/Library/ScriptingAdditions
+1.5M    /usr/lib/php
+1.6M    /Library/Printers/PPDs
+1.6M    /Library/Widgets/World Clock.wdgt
+1.6M    /System/Library/SystemProfiler
+1.7M    /Library/DropboxHelperTools
+1.7M    /System/Library/Sounds
+1.7M    /private/var/networkd
+1.8M    /Library/PDF Services
+1.8M    /Library/PDF Services/Save as Adobe PDF.app
+1.8M    /System/Library/Intelligent Suggestions
+1.8M    /Users/gerardwerk/.gervill
+1.9M    /Applications/App Store.app
+1.9M    /Applications/App Store.app/Contents
+1.9M    /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app
+1.9M    /Library/User Pictures/Fun
+1.9M    /private/var/tmp
+2.0M    /Library/Spotlight/Microsoft Office.mdimporter
+2.1M    /Applications/Utilities/Migration Assistant.app
+2.1M    /Library/User Pictures/Instruments
+2.1M    /Library/Widgets/Unit Converter.wdgt
+2.1M    /System/Library/ScreenReader
+2.2M    /Applications/Image Capture.app
+2.2M    /Applications/Image Capture.app/Contents
+2.3M    /Applications/Game Center.app
+2.3M    /Applications/Game Center.app/Contents
+2.3M    /System/Library/ColorSync
+2.3M    /Users/gerardwerk/Pictures
+2.4M    /Applications/Utilities/Boot Camp Assistant.app
+2.4M    /Library/User Pictures/Animals
+2.4M    /Users/gerardwerk/.cisco
+2.5M    /Applications/Calculator.app
+2.5M    /Applications/Calculator.app/Contents
+2.5M    /Applications/Utilities/ColorSync Utility.app
+2.5M    /Applications/Utilities/Disk Utility.app
+2.5M    /Library/ColorSync
+2.5M    /Library/ColorSync/Profiles
+2.5M    /Library/Widgets/Stickies.wdgt
+2.5M    /Library/Widgets/Translation.wdgt
+2.5M    /Users/gerard/Pictures
+2.5M    /bin
+2.6M    /Library/Internet Plug-Ins/AdobeAAMDetect.plugin
+2.6M    /usr/share/germantok
+2.7M    /Applications/Cisco
+2.9M    /Library/Google
+2.9M    /Library/Google/GoogleSoftwareUpdate
+2.9M    /System/Library/BridgeSupport
+3.0M    /Library/Spotlight/iWork.mdimporter
+3.1M    /System/Library/MonitorPanels
+3.2M    /Library/Messages
+3.2M    /Library/Messages/PlugIns
+3.2M    /System/Library/SystemConfiguration
+3.5M    /Applications/Flux.app
+3.5M    /Applications/Flux.app/Contents
+3.5M    /Applications/Utilities/Terminal.app
+3.5M    /Users/gerard/Applications
+3.6M    /Library/Widgets/Flight Tracker.wdgt
+3.6M    /private/var/root
+3.7M    /usr/share/locale
+3.8M    /Library/Caches/com.google.SoftwareUpdate.0
+3.8M    /Library/PreferencePanes
+3.8M    /Library/Widgets/Dictionary.wdgt
+3.8M    /Library/Widgets/Movies.wdgt
+3.9M    /Applications/FaceTime.app
+3.9M    /Applications/FaceTime.app/Contents
+3.9M    /Library/Widgets/Ski Report.wdgt
+4.0M    /Library/Documentation/License.lpdf
+4.0M    /Library/User Pictures/Sports
+4.0M    /System/Library/InternetAccounts
+4.0M    /Users/gerardwerk/metastore_db
+4.1M    /Library/Extensions
+4.1M    /System/Library/Image Capture
+4.1M    /usr/libexec/postfix
+4.2M    /Applications/Utilities/Audio MIDI Setup.app
+4.3M    /Applications/TextEdit.app
+4.3M    /Applications/TextEdit.app/Contents
+4.3M    /Library/Widgets/ESPN.wdgt
+4.3M    /opt/X11/var
+4.3M    /usr/include
+4.4M    /Applications/Photo Booth.app
+4.4M    /Applications/Photo Booth.app/Contents
+4.4M    /Library/Widgets/Web Clip.wdgt
+4.5M    /Applications/Stickies.app
+4.5M    /Applications/Stickies.app/Contents
+4.5M    /Library/Dictionaries/Oxford American Writer's Thesaurus.dictionary
+4.6M    /System/Library/Services
+4.7M    /Applications/Utilities/VoiceOver Utility.app
+4.7M    /usr/lib/system
+4.8M    /Applications/System Preferences.app
+4.8M    /Applications/System Preferences.app/Contents
+4.8M    /Library/Dictionaries/Thai.dictionary
+4.9M    /Applications/Chess.app
+4.9M    /Applications/Chess.app/Contents
+4.9M    /Library/User Pictures/Flowers
+5.0M    /Library/Spotlight
+5.1M    /Applications/Notes.app
+5.1M    /Applications/Notes.app/Contents
+5.1M    /Library/Dictionaries/Apple Dictionary.dictionary
+5.1M    /Library/Frameworks/OSXFUSE.framework
+5.1M    /Users/gerardwerk/.bash_sessions
+5.2M    /Applications/Reminders.app
+5.2M    /Applications/Reminders.app/Contents
+5.2M    /Library/User Pictures/Nature
+5.3M    /Library/Dictionaries/Hindi.dictionary
+5.5M    /Applications/Utilities/Script Editor.app
+5.5M    /usr/libexec/apache2
+5.6M    /.DocumentRevisions-V100/db-V1
+5.8M    /Users/gerard/.m2
+5.8M    /usr/share/cups
+5.8M    /usr/share/doc
+5.8M    /usr/share/info
+6.0M    /Applications/DVD Player.app
+6.0M    /Applications/DVD Player.app/Contents
+6.0M    /Library/Printers/EPSON
+6.6M    /Library/Dictionaries/Oxford Thesaurus of English.dictionary
+6.8M    /Library/Internet Plug-Ins/Unity Web Player.plugin
+6.8M    /opt/cisco/hostscan
+6.9M    /Applications/Utilities/Activity Monitor.app
+6.9M    /Users/gerardwerk/.oh-my-zsh
+7.2M    /Library/Application Support/Native Instruments
+7.2M    /usr/share/vim
+7.3M    /Library/Python/2.7
+7.5M    /Library/Python
+7.5M    /Library/WebServer/share
+7.6M    /Library/Logs/DiagnosticReports
+7.6M    /Library/WebServer
+7.7M    /Users/gerard/.boot
+7.7M    /Users/gerardwerk/.boot
+7.9M    /Applications/Maps.app
+7.9M    /Applications/Maps.app/Contents
+7.9M    /Applications/Utilities/XQuartz.app
+8.1M    /Library/Dictionaries/Norwegian.dictionary
+8.1M    /Library/Widgets/Weather.wdgt
+8.2M    /Users/Guest
+8.2M    /Users/Guest/Downloads
+8.4M    /Applications/Utilities/Console.app
+8.7M    /usr/local/include
+9.4M    /Applications/OneDrive.app
+9.4M    /Applications/OneDrive.app/Contents
+9.4M    /System/Library/Tcl
+9.5M    /Library/Dictionaries/Multidictionnaire de la langue française.dictionary
+9.9M    /Applications/Automator.app
+9.9M    /Applications/Automator.app/Contents
+ 10M    /Applications/Font Book.app
+ 10M    /Applications/Font Book.app/Contents
+ 10M    /System/Library/Kernels
+ 11M    /Applications/Contacts.app
+ 11M    /Applications/Contacts.app/Contents
+ 11M    /Applications/Transmission.app
+ 11M    /Applications/Transmission.app/Contents
+ 11M    /Applications/Utilities/Keychain Access.app
+ 11M    /opt/X11/include
+ 11M    /usr/share/langid
+ 12M    /Applications/Dictionary.app
+ 12M    /Applications/Dictionary.app/Contents
+ 12M    /Applications/QuickTime Player.app
+ 12M    /Applications/QuickTime Player.app/Contents
+ 12M    /Library/Dictionaries/Dutch.dictionary
+ 12M    /Library/Dictionaries/Swedish.dictionary
+ 12M    /System/Library/Filesystems
+ 12M    /usr/share/icu
+ 13M    /Applications/Skim.app
+ 13M    /Applications/Skim.app/Contents
+ 13M    /Library/Application Support/iLifeMediaBrowser
+ 13M    /Library/Dictionaries/Russian.dictionary
+ 13M    /Library/PrivilegedHelperTools
+ 13M    /private/var/audit
+ 14M    /Applications/Calendar.app
+ 14M    /Applications/Calendar.app/Contents
+ 14M    /Applications/Messages.app
+ 14M    /Applications/Messages.app/Contents
+ 14M    /Library/Image Capture
+ 14M    /Library/Image Capture/Devices
+ 14M    /System/Library/Java
+ 15M    /Users/gerard/.node-gyp
+ 16M    /Library/Application Support/Microsoft
+ 16M    /Library/Dictionaries/The Standard Dictionary of Contemporary Chinese.dictionary
+ 16M    /Library/Dictionaries/Turkish.dictionary
+ 16M    /usr/sbin
+ 17M    /Users/gerardwerk/.node-gyp
+ 18M    /Library/QuickLook/iWork.qlgenerator
+ 18M    /System/Library/PrelinkedKernels
+ 18M    /Users/gerardwerk/.ipython
+ 18M    /private/tmp
+ 19M    /Library/QuickLook
+ 19M    /System/Library/QuickTime
+ 20M    /Applications/Chromecast.app
+ 20M    /Applications/Chromecast.app/Contents
+ 20M    /Library/Dictionaries/Diccionario General de la Lengua Española Vox.dictionary
+ 20M    /System/Library/Input Methods
+ 21M    /Applications/Utilities/Adobe Utilities-CS6.localized
+ 21M    /Library/User Pictures
+ 22M    /Applications/Slack.app
+ 22M    /Applications/Slack.app/Contents
+ 22M    /Applications/Utilities/Grapher.app
+ 22M    /Users/gerardwerk/.codeintel
+ 22M    /opt/cisco/anyconnect
+ 23M    /Applications/FileZilla.app
+ 23M    /Applications/FileZilla.app/Contents
+ 23M    /Library/Dictionaries/French - English.dictionary
+ 23M    /Users/gerard/.dropbox
+ 24M    /Applications/Kaspersky Anti-Virus For Mac.app
+ 24M    /Applications/Kaspersky Anti-Virus For Mac.app/Contents
+ 24M    /Library/Dictionaries/Spanish - English.dictionary
+ 24M    /usr/standalone
+ 24M    /usr/standalone/i386
+ 26M    /Library/Dictionaries/Italian.dictionary
+ 26M    /Library/Dictionaries/Portuguese.dictionary
+ 27M    /Applications/Mail.app
+ 27M    /Applications/Mail.app/Contents
+ 27M    /Applications/iBooks.app
+ 27M    /Applications/iBooks.app/Contents
+ 27M    /opt/X11/bin
+ 27M    /usr/libexec
+ 28M    /Library/Dictionaries/Simplified Chinese - English.dictionary
+ 28M    /System/Library/Components
+ 28M    /Users/gerard/.cache
+ 29M    /Applications/Sequel Pro.app
+ 29M    /Applications/Sequel Pro.app/Contents
+ 29M    /Library/Dictionaries/Sanseido The WISDOM English-Japanese Japanese-English Dictionary.dictionary
+ 29M    /Library/Documentation/Help
+ 29M    /opt/cisco
+ 30M    /Applications/Photos.app
+ 30M    /Applications/Photos.app/Contents
+ 30M    /Applications/Sublime Text.app
+ 30M    /Applications/Sublime Text.app/Contents
+ 30M    /Library/Application Support/com.torrents-time
+ 31M    /Applications/Preview.app
+ 31M    /Applications/Preview.app/Contents
+ 32M    /Library/Dictionaries/German - English.dictionary
+ 32M    /System/Library/Automator
+ 32M    /usr/share/emacs
+ 34M    /Library/Documentation
+ 39M    /usr/local/aws
+ 40M    /Applications/Safari.app
+ 40M    /Applications/Safari.app/Contents
+ 40M    /usr/local/.git
+ 42M    /usr/lib
+ 43M    /Library/Printers/Canon
+ 45M    /System/Library/Compositions
+ 45M    /Users/gerardwerk/Downloads
+ 46M    /Library/Widgets
+ 48M    /Library/Dictionaries/Korean - English.dictionary
+ 48M    /Library/Internet Plug-Ins/Flash Player.plugin
+ 49M    /.DocumentRevisions-V100/.cs/ChunkStorage
+ 49M    /Library/Dictionaries/Duden Dictionary Data Set I.dictionary
+ 50M    /opt/X11/lib
+ 50M    /usr/bin
+ 51M    /Library/Dictionaries/Sanseido Super Daijirin.dictionary
+ 51M    /Library/Printers
+ 52M    /.fseventsd
+ 53M    /Library/Internet Plug-Ins/Silverlight.plugin
+ 53M    /Users/gerardwerk/Documents
+ 55M    /Users/gerard/.npm
+ 57M    /.DocumentRevisions-V100/.cs
+ 57M    /Applications/Utilities/Adobe AIR Uninstaller.app
+ 58M    /Library/Frameworks/Adobe AIR.framework
+ 58M    /usr/share/tokenizer
+ 59M    /Applications/GitHub Desktop.app
+ 59M    /Applications/GitHub Desktop.app/Contents
+ 61M    /Library/Application Support/Dell
+ 63M    /.DocumentRevisions-V100
+ 64M    /usr/share/mecabra
+ 65M    /Library/Dictionaries/Oxford Dictionary of English.dictionary
+ 66M    /Library/Dictionaries/New Oxford American Dictionary.dictionary
+ 67M    /System/Library/Perl
+ 70M    /usr/share/man
+ 71M    /Applications/Dropbox.app
+ 71M    /Applications/Dropbox.app/Contents
+ 75M    /Library/Application Support/Avid
+ 78M    /Users/gerardwerk/.cache
+ 79M    /Applications/CMake.app
+ 79M    /Applications/CMake.app/Contents
+ 80M    /Library/Dictionaries/Korean.dictionary
+ 82M    /opt/X11/share
+ 85M    /Users/gerardwerk/Applications
+ 87M    /Users/gerardwerk/.npm
+ 89M    /Applications/Utilities/System Information.app
+ 94M    /Applications/Google Drive.app
+ 94M    /Applications/Google Drive.app/Contents
+ 98M    /Users/gerardwerk/google-cloud-sdk
+103M    /Library/Logs/CrashReporter
+108M    /usr/local/Library
+111M    /Library/Logs
+114M    /System/Library/Receipts
+118M    /Applications/VLC.app
+118M    /Applications/VLC.app/Contents
+119M    /Applications/Skype.app
+119M    /Applications/Skype.app/Contents
+126M    /Library/Application Support/Apple
+140M    /Library/Screen Savers
+140M    /Library/Screen Savers/Default Collections
+142M    /Applications/WhatsApp.app
+142M    /Applications/WhatsApp.app/Contents
+142M    /Library/Internet Plug-Ins/JavaAppletPlugin.plugin
+146M    /Library/Caches/Homebrew
+146M    /usr/local/bin
+149M    /Users/gerardwerk/Git
+151M    /Library/Audio
+151M    /Library/Audio/Plug-Ins
+155M    /Users/gerard/Movies
+158M    /Applications/Utilities/AirPort Utility.app
+158M    /Library/Developer
+158M    /Library/Developer/CommandLineTools
+163M    /Applications/MySQLWorkbench.app
+163M    /Applications/MySQLWorkbench.app/Contents
+164M    /Applications/Spotify.app
+164M    /Applications/Spotify.app/Contents
+165M    /Applications/Utilities/Adobe Application Manager
+166M    /Applications/Numbers.app
+166M    /Applications/Numbers.app/Contents
+166M    /Applications/VirtualBox.app
+166M    /Applications/VirtualBox.app/Contents
+167M    /Applications/iTunes.app
+167M    /Applications/iTunes.app/Contents
+174M    /opt/X11
+190M    /Library/Caches/com.apple.iconservices.store
+198M    /Library/Application Support/Serviio
+215M    /Applications/Docker.app
+215M    /Applications/Docker.app/Contents
+222M    /Applications/Pages.app
+222M    /Applications/Pages.app/Contents
+230M    /private/var/log
+254M    /Library/Internet Plug-Ins
+276M    /Users/gerard/.gradle
+286M    /usr/share
+333M    /System/Library/PreferencePanes
+341M    /Library/Application Support/Kaspersky Lab
+342M    /Library/Caches
+355M    /Library/Java
+355M    /Library/Java/JavaVirtualMachines
+363M    /usr/local/share
+364M    /System/Library/Fonts
+365M    /Applications/PyCharm CE.app
+365M    /Applications/PyCharm CE.app/Contents
+370M    /Users/gerardwerk/.Trash
+377M    /Library/Frameworks/Mono.framework
+393M    /Applications/Google Chrome.app
+393M    /Applications/Google Chrome.app/Contents
+414M    /Library/Desktop Pictures
+441M    /Library/Frameworks
+445M    /System/Library/LinguisticData
+460M    /Applications/Keynote.app
+460M    /Applications/Keynote.app/Contents
+469M    /Users/gerardwerk/Envs
+470M    /opt/homebrew-cask
+470M    /opt/homebrew-cask/Caskroom
+481M    /Users/gerardwerk/Desktop
+497M    /System/Library/Speech
+512M    /Applications/Android Studio.app
+512M    /Applications/Android Studio.app/Contents
+516M    /System/Library/CoreServices
+577M    /Applications/Utilities
+595M    /System/Library/Extensions
+672M    /Library/SystemMigration
+672M    /Library/SystemMigration/History
+674M    /opt
+678M    /Library/Dictionaries
+683M    /Library/Updates
+683M    /Library/Updates/031-61467
+778M    /System/Library/Frameworks
+786M    /Applications/Steam.app
+786M    /Applications/Steam.app/Contents
+804M    /Users/gerard/.Trash
+852M    /Library/Fonts
+878M    /System/Library/PrivateFrameworks
+910M    /Users/gerard/Documents
+929M    /usr/local/lib
+930M    /Users/gerardwerk/.m2
+1.0G    /.Spotlight-V100
+1.0G    /.Spotlight-V100/Store-V2
+1.0G    /.Spotlight-V100/Store-V2/F5CB0F84-9CEC-4D6E-8FEE-8624E0C7CBE1
+1.2G    /Users/gerard/.android
+1.2G    /Users/gerard/OneDrive
+1.3G    /Library/Application Support/Adobe
+1.4G    /private/var/db
+1.8G    /Users/gerardwerk/Google Drive
+2.0G    /private/var/folders
+2.1G    /Library/Application Support
+2.2G    /usr/local/Cellar
+2.4G    /Users/gerard/Repositories
+3.7G    /usr/local/var
+5.4G    /Applications
+7.5G    /Library
+8.0G    /private/var/vm
+8.2G    /usr/local/texlive
+8.8G    /System/Library/Caches
+9.2G    /Users/gerard/Library
+ 12G    /private
+ 12G    /private/var
+ 14G    /System
+ 14G    /System/Library
+ 16G    /Users/gerard
+ 16G    /usr
+ 16G    /usr/local
+ 27G    /Users/gerardwerk/Library
+ 32G    /Users/gerardwerk
+ 48G    /Users
+104G    /
