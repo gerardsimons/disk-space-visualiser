@@ -1,6 +1,8 @@
 from application.main import *
-from flask import render_template, jsonify
 
+from flask import render_template, jsonify, Response
+
+import subprocess
 # class DiskUsageParserError(Exception):
 #     pass
 #
@@ -20,6 +22,21 @@ from flask import render_template, jsonify
 @main_blueprint.route("/")
 def index():
     return render_template("index.html")
+
+# Returns raw du output as text
+@main_blueprint.route("/du/raw")
+def du_raw():
+	path = '.' # By default from the root
+	cmd = ['du', '-d', '1', '-h', path]
+
+	print("COMMAND = ", " ".join(cmd))
+
+	ret = subprocess.Popen(cmd, stdout=subprocess.PIPE).communicate()[0]
+
+	return Response(ret, mimetype='text')
+
+
+    # return render_template("du.html")
 
 # @main_blueprint.route("/disk/")
 # def disk():
