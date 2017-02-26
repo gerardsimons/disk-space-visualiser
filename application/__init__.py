@@ -3,7 +3,7 @@ from flask import Flask
 
 app = Flask(__name__,static_folder=None)
 
-from application.config import *
+from application.config import *    
 app.config.from_object(Config)
 
 # db = SQLAlchemy(app)

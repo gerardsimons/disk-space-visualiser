@@ -1,20 +1,13 @@
 import re
 
-from Tree import Node
+from du.Tree import Node, NodeEncoder
 
-def parse(du_text):
+def parse_du(du_text):
 
     # Split by newline
-    lines = du_text.split("\n")
-
-    # # Split by path seperator
-    # for line in lines:
-    #   line.split("")
-
-    results = list()
+    lines = du_text.splitlines()
 
     root = None
-
     for line in lines:
         print("LINE : '%s'" % line)
         pattern = re.compile(r"""\s*                
@@ -30,30 +23,29 @@ def parse(du_text):
         # path = ''
 
         if len(size) and len(path):
-            results.append((size, path))
 
-            paths = path.split("/")
-            print(paths)
+            # Extract each path part
+            path_parts = path.split("/")
 
-            if paths[0] == '':
-                paths[0] = '/' # Starts from root
+            if path_parts[0] == '':
+                path_parts[0] = '/' # Starts from root
 
-            # root = 
+            # If no root is set, just take the first part, should be the same for all!
             if root is None:
-                root = Node(paths[0])
+                root = Node(path_parts[0])
             node = root
 
-            for path in paths[1:]:
+            for path_part in path_parts[1:]:
                     
-                n = node.find_node(path)
-                if n is not None: # Found the node already
-                    print(path + " exists.")
+                n = node.find_node(path_part)
+                if n is not None: # Found the node already, skip and search next one
                     node = n
-                else:
-                    print("Adding", path, "to", node.value)
-                    new_node = Node(path)
+                else: # Does not exist yet, create it, and keep searching from the new node
+                    new_node = Node(path_part)
                     node.add_node(new_node)
                     node = new_node
+
+            node.value = size
     
     return root
 
@@ -66,18 +58,16 @@ if __name__ == '__main__':
     0B    /.DocumentRevisions-V100/purgatory
     """
 
-    test_string = """
-    0B    /B/C
-    0B    /B/D
-    0B    /E/C
-    """
+    # test_string = """
+    # 0B    /B/C
+    # 0B    /B/D
+    # 0B    /E/C
+    # """
 
     import json
 
-    res = parse(test_string)
-    # print(res.children)
-    # print(res.print_)
-    print("TREE")
-    res.print_tree()
+    res = parse_du(test_string)
+    print(json.dumps(res, cls=NodeEncoder, indent=4))
+
     # print(json.dumps(res.__dict__))
 

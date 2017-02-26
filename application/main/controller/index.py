@@ -1,40 +1,40 @@
 from application.main import *
 
+from du.DiskUsageParser import parse_du
+from du.Tree import NodeEncoder
+
+import json
+
 from flask import render_template, jsonify, Response
 
 import subprocess
-# class DiskUsageParserError(Exception):
-#     pass
-#
-# def disk_usage_reader(file_path):
-#
-#     try:
-#         with open(file_path) as fp:
-#             for line in fp:
-#                 print(line)
-#
-#     except FileNotFoundError:
-#         print("Disk file does not exist")
-
-    
-
 
 @main_blueprint.route("/")
 def index():
     return render_template("index.html")
 
+def du_cmd():
+    path = '.' # By default from the root
+    cmd = ['du', '-d', '1', '-h', path]
+
+    return subprocess.Popen(cmd, stdout=subprocess.PIPE).communicate()[0].decode('ascii')
+
 # Returns raw du output as text
 @main_blueprint.route("/du/raw")
 def du_raw():
-	path = '.' # By default from the root
-	cmd = ['du', '-d', '1', '-h', path]
+	return Response(du_cmd(), mimetype='text')
 
-	print("COMMAND = ", " ".join(cmd))
+@main_blueprint.route("/du/json")
+def du_json():
+    du_output = du_cmd()
 
-	ret = subprocess.Popen(cmd, stdout=subprocess.PIPE).communicate()[0]
+    # Parse to tree structure
+    du_tree = parse_du(du_output)
 
-	return Response(ret, mimetype='text')
-
+    # Dump to JSON using the custom NodeEncoder
+    du_json = json.dumps(du_tree, cls=NodeEncoder, indent=4)
+    # du_json = ''
+    return Response(du_json, mimetype='text/json')
 
     # return render_template("du.html")
 
