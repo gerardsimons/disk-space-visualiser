@@ -50,7 +50,7 @@ class Node(object):
             # print(min_depth)
             indentation_str = " " * ((depth - 1) * (indent_size + 2))
             if depth:
-                branch_str = "|" + char * indent_size
+                branch_str = "├" + char * indent_size
             else:
                 branch_str = ""
 

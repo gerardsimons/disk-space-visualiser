@@ -1,4 +1,4 @@
-<!-- Popular / About Mike Bostock’s Block 4063582 ← 4063570
+  <!-- Popular / About Mike Bostock’s Block 4063582 ← 4063570
 Updated May 31, 2016
 Treemap
 
@@ -33,12 +33,24 @@ form {
   text-indent: 2px;
 }
 
+h1,h2 {
+  padding: 5px;
+}
+
+h2 {
+  font-family: courier;
+
+}
+
 </style>
+<h1>Disk Usage</h1>
+<h2>du -d {{depth}} {{path}}</h2>
 <form>
   <label><input type="radio" name="mode" value="size" checked> Size</label>
   <label><input type="radio" name="mode" value="count"> Count</label>
 </form>
-<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="{{ url_for('main.static', filename='js/d3.v3.min.js') }}"></script>
+<!-- <link rel= "stylesheet" type= "text/css" href= ""> -->
 <script>
 
 var margin = {top: 40, right: 10, bottom: 10, left: 10},
@@ -50,7 +62,7 @@ var color = d3.scale.category20c();
 var treemap = d3.layout.treemap()
     .size([width, height])
     .sticky(true)
-    .value(function(d) { return d.size; });
+    .value(function(d) { return d.value; });
 
 var div = d3.select("body").append("div")
     .style("position", "relative")
@@ -59,8 +71,19 @@ var div = d3.select("body").append("div")
     .style("left", margin.left + "px")
     .style("top", margin.top + "px");
 
-d3.json("data/flare.json", function(error, root) {
+var du_depth = {{depth}};
+var du_path = "{{path}}";
+console.log("depth = " + du_depth);
+console.log("path = " + du_path);
+
+json_url = "{{ url_for('main.du_json', depth=3, path=path) | safe }}"
+console.log(json_url);
+
+d3.json(json_url, function(error, root) {
   if (error) throw error;
+
+  console.log("root:");
+  console.log(root);
 
   var node = div.datum(root).selectAll(".node")
       .data(treemap.nodes)
@@ -73,7 +96,7 @@ d3.json("data/flare.json", function(error, root) {
   d3.selectAll("input").on("change", function change() {
     var value = this.value === "count"
         ? function() { return 1; }
-        : function(d) { return d.size; };
+        : function(d) { return d.value; };
 
     node
         .data(treemap.value(value).nodes)
